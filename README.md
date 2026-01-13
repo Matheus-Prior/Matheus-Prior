@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Prior</h1>
 <h3 align="center">Game Programmer from Brazil, studying in SNHU</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and C++**
 
 - 📫 How to reach me **mprior09@icloud.com**
 
